@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, Django, Docker**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The term “bug” to describe a glitch in a system originated when a moth caused a malfunction in an early computer.**
 
  </div>
  
